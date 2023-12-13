@@ -3,7 +3,6 @@
 node_modules
 
 # Quasar core related directories
-.quasar
 /dist
 
 # Cordova related directories and files
@@ -31,6 +30,4 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
-
-src/boot/firebase.js
 
